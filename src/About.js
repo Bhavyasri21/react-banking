@@ -9,7 +9,7 @@ class About extends React.Component {
         <div class="wrapper">
           <h2>
             {" "}
-            <strong>About My Bank</strong>
+           <center><strong>About My Bank</strong></center>
           </h2>
           <br></br>
           <h3> We done your payments more easy and more secure</h3>

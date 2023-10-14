@@ -9,6 +9,7 @@ class TransactionHistory extends React.Component{
         return(
             <div>
                 <Header/>
+                <center><h2>This is our Latest History</h2></center>
                 <div class="wrapper">
                 <Table striped class="table">
       <thead>

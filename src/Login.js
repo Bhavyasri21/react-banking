@@ -12,11 +12,11 @@ class Login extends React.Component {
       <div>
         <br></br>
         <div class="wrapper">
-        <h1> Login Here </h1>
+        <h1> Login Page </h1>
         <div class="form">
           <Form>
             <Form.Group className="mb-3" controlId="formBasicEmail">
-              <Form.Control type="email" placeholder="Enter email" />
+              <Form.Control type="email" placeholder="Enter gmail" />
               <Form.Text className="text-muted">
                 Enter user registered email address
               </Form.Text>
@@ -26,7 +26,7 @@ class Login extends React.Component {
               <Form.Control type="password" placeholder="Password" />
             </Form.Group>
             <Button variant="primary" type="submit">
-              Login
+              click here to Login
             </Button>
           </Form>
         </div>

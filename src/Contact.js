@@ -7,6 +7,7 @@ class Contact extends React.Component {
       <div>
         <Header />
         <div class="wrapper">
+          <center><h2>Contact Us</h2></center><br/>
           <h2>
             {" "}
             <strong>My Bank</strong> Contact info.

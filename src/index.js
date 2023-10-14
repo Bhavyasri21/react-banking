@@ -21,7 +21,7 @@ import SendFunds from './SendFunds';
 
 
 const routing = (
-  <BrowserRouter basename="react-banking">
+  <BrowserRouter>
     <Routes>
       <Route path='/' Exact element={<Home/>}></Route>
       <Route path='/contact' Exact element={<Contact/>}></Route>
